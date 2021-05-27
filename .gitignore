@@ -47,6 +47,8 @@ Temporary Items
 
 ##########################################################################
 ## Início de gitignore para arquivos do VSCode
+## Referência:
+## https://github.com/github/gitignore/blob/master/Global/VisualStudioCode.gitignore
 
 .vscode/*
 !.vscode/settings.json
