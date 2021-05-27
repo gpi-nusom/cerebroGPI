@@ -1,5 +1,5 @@
 # cerebroGPI
-Um experimento em organização e catalogação de notas
+Um experimento em organização e catalogação de conteúdo para mapeamentos de conteúdo do GPI
 
 
 ---
