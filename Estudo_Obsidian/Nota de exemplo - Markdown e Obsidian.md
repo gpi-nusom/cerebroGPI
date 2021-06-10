@@ -1,6 +1,6 @@
 
 # Nota de Exemplo
-**Nota de Estudo:** [[Markdown e Obsidian - Estudo]]
+**Nota de Estudo:** [[01 - Markdown e Obsidian - Estudo]]
 
 ---
 

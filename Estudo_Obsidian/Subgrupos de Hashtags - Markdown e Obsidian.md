@@ -1,4 +1,4 @@
-**Notas de Estudos:** [[Markdown e Obsidian - Estudo]]
+**Notas de Estudos:** [[01 - Markdown e Obsidian - Estudo]]
 
 ### Subgrupos de Hashtags
 

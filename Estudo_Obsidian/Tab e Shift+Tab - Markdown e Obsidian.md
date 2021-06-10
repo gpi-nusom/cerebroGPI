@@ -1,4 +1,4 @@
-**Notas de Estudos:** [[Markdown e Obsidian - Estudo]], [[Listas - Markdown e Obsidian]]
+**Notas de Estudos:** [[01 - Markdown e Obsidian - Estudo]], [[Listas - Markdown e Obsidian]]
 
 ### Tab e Shift+Tab
 1. **Tab** serve para dar um espaço grande no parágrafo. Isso serve para adicionar uma lista dentro de outra lista, por exemplo:

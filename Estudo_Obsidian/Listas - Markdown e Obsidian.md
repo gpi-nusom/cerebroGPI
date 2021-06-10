@@ -1,4 +1,4 @@
-**Notas de Estudos:** [[Markdown e Obsidian - Estudo]], [[Tab e Shift+Tab - Markdown e Obsidian]], [[Movimentar rapidamente Linhas para cima e para baixo - Markdown e Obsidian]]
+**Notas de Estudos:** [[01 - Markdown e Obsidian - Estudo]], [[Tab e Shift+Tab - Markdown e Obsidian]], [[Movimentar rapidamente Linhas para cima e para baixo - Markdown e Obsidian]]
 
 ### Listas
 * Existem 3 maneiras de criar listas:
