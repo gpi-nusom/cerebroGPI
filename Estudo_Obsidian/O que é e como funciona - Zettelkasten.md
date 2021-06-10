@@ -15,5 +15,5 @@
 ![[Zettelkasten_paper_schematic.png]]
 
 **Rede Neural**
-![[1200px-Neural_network.svg.png]]
 
+![[1200px-Neural_network.svg.png]]

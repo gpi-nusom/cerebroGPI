@@ -1,4 +1,4 @@
 ### Luhmann - Zettelkasten
-![[0 eMW-vEwe5E56raEs.jpg]]
+![[0 eMW-vEwe5E56raEs 1.jpg]]
 
 Um pesquisador famoso por seu uso extensivo do método foi o sociólogo Niklas Luhmann (1927–1998). Luhmann construiu um zettelkasten de cerca de 90.000 fichas para sua pesquisa e creditou-o por permitir sua escrita extraordinariamente prolífica (incluindo mais de 70 livros e 400 artigos acadêmicos).  Ele ligou os cartões, atribuindo a cada um um número de índice exclusivo com base em uma hierarquia de ramificação. Essas fichas foram digitalizadas e disponibilizadas online em 2019. Luhmann descreveu o zettelkasten como parte de sua pesquisa sobre a teoria dos sistemas no ensaio "Kommunikation mit Zettelkästen".
