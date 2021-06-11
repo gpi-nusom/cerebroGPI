@@ -42,7 +42,7 @@ git commit -m "comentário objetivo descrevendo alteração"
 
 Realizado o **commit**, a alteração que você fez está registrada na estrutura do git no seu computador. Você pode commitar várias vezes antes de subir as alterações para o repositório online no Github. Fazer *commits* a cada alteração completa realizada, ajuda a localiza-las depois no histórico de alterações do repositório.
 
->O comentário em um *commit* serve para localizar no histórico de alterações a modificação feita, podendo ser também uma nota criada ou apagada. Através desse histórico é possível voltar desfazer ações e mapear o desenvolvimento do repositório, por isso é importante seguir as definições de como escrever escrever comentários de commits definidos no [[guia de estilo de commits]].
+>O comentário em um *commit* serve para localizar no histórico de alterações a modificação feita, podendo ser também uma nota criada ou apagada. Através desse histórico é possível voltar desfazer ações e mapear o desenvolvimento do repositório, por isso é importante seguir as definições de como escrever escrever comentários de commits definidos no [[Guia de estilo de commits]].
 
 ---
 ### Subindo as alterações para o repositório no Github
