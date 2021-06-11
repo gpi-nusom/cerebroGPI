@@ -18,3 +18,25 @@ Ou você pode baixar o instalador no site do [Blender](https://www.blender.org/d
 ## Área de trabalho
 
 ![Área de trabalho](fig/intro.png)
+
+## Alguns atalhos e teclas úteis
+
+**T**: Esconde e abre a caixa de *Ferramentas*
+![Atalho T](fig/atalhoT.gif)
+
+**N**: Esconde e abre a caixa de *Propriedades*
+![Atalho N](fig/atalhoN.gif)
+
+### Usando o botão central (roll-on) do mouse
+
+**Pressionar o roll-on do mouse**: Rotaciona a visão
+![rotaciona](fig/rolon.gif)
+
+- **Rolar para cima ou para baixo, sem pressionar nenhuma tecla**: Dá zoom na cena (visão)
+
+- **Rolar para cima ou para baixo, pressionando Ctrl**: Movimenta horizontalmenta a cena (visão)
+
+- **Rolar para cima ou para baixo, sem pressionar nenhuma tecla**: Dá zoom na cena (visão)
+
+![move](fig/zoom.gif)
+
