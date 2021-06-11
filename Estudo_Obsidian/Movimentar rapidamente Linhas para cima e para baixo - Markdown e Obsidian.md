@@ -1,4 +1,4 @@
-**Notas de Estudos:** [[01 - Markdown e Obsidian - Estudo]], [[Listas - Markdown e Obsidian]]
+**Notas de Estudos:** [[00 - Markdown e Obsidian - MOC]], [[Listas - Markdown e Obsidian]]
 
 ### Movimentar rapidamente Linhas para cima e para baixo
 

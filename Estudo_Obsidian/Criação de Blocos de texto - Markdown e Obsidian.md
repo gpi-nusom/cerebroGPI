@@ -1,4 +1,4 @@
-**Notas de Estudos:** [[01 - Markdown e Obsidian - Estudo]], [[Referênciar outra nota - Markdown e Obsidian]]
+**Notas de Estudos:** [[00 - Markdown e Obsidian - MOC]], [[Referênciar outra nota - Markdown e Obsidian]]
 
 ### Criação de Blocos de texto
 

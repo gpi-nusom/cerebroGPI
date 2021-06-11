@@ -1,4 +1,4 @@
-**Notas de Estudos:** [[01 - Markdown e Obsidian - Estudo]]
+**Notas de Estudos:** [[00 - Markdown e Obsidian - MOC]]
 
 
 ### Referências de aprendizado sobre Obsidian:

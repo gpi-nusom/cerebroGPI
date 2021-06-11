@@ -1,4 +1,4 @@
-**Notas de Estudos:** [[01 - Markdown e Obsidian - Estudo]], [[Embed Video - Markdown e Obsidian]]
+**Notas de Estudos:** [[00 - Markdown e Obsidian - MOC]], [[Embed Video - Markdown e Obsidian]]
 
 ### Adicionar mídia 
 Existem 3 principais maneiras para trabalharmos com mídias:

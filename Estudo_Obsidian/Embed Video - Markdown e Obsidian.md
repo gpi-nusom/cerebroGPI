@@ -1,4 +1,4 @@
-**Notas de Estudos:** [[01 - Markdown e Obsidian - Estudo]], [[Adicionar mídia - Markdown e Obsidian]]
+**Notas de Estudos:** [[00 - Markdown e Obsidian - MOC]], [[Adicionar mídia - Markdown e Obsidian]]
 
 ### Embed Video 
 É possível colocar um vídeo do youtube na nota e possibilitar que ele seja reproduzido. Basta copiar o código de incorporação do vídeo e colar:

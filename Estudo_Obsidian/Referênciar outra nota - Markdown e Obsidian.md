@@ -1,4 +1,4 @@
-**Notas de Estudos:** [[01 - Markdown e Obsidian - Estudo]], [[Embed Video - Markdown e Obsidian - Markdown e Obsidian]]
+**Notas de Estudos:** [[00 - Markdown e Obsidian - MOC]], [[Criação de Blocos de texto - Markdown e Obsidian]]
 
 ### Referênciar outra nota
  Podemos referenciar uma seção inteira ou resumo de outra nota. O nome da referência no obsidian é chamado de **bloco**, cada item de uma lista é um bloco e cada parágrafo separado por 2 espaços tbm cria blocos. 
