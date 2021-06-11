@@ -27,7 +27,8 @@ Ou você pode baixar o instalador no site do [Blender](https://www.blender.org/d
 **N**: Esconde e abre a caixa de *Propriedades*
 ![Atalho N](fig/atalhoN.gif)
 
-### Usando o botão central (roll-on) do mouse
+**Criar objetos**: Para criar objetos, aperte a tecla **T** para abrir a caixa de *Ferramentas*, abra a aba *Create* e selecione o objeto que desejas criar. Para selecionar outro local para criação do objeto, use o **botão esquerdo do mouse** para selecionar o lugar no espaço para criar este objeto.
+![cria](fig/criar_sel_local.gif)
 
 **Pressionar o roll-on do mouse**: Rotaciona a visão
 ![rotaciona](fig/rolon.gif)
@@ -36,7 +37,13 @@ Ou você pode baixar o instalador no site do [Blender](https://www.blender.org/d
 
 - **Rolar para cima ou para baixo, pressionando Ctrl**: Movimenta horizontalmenta a cena (visão)
 
-- **Rolar para cima ou para baixo, sem pressionar nenhuma tecla**: Dá zoom na cena (visão)
+- **Rolar para cima ou para baixo, pressionando Shift**: Dá zoom na cena (visão)
 
 ![move](fig/zoom.gif)
+
+**Clicar com o botão direito do mouse**: Seleciona um objeto (usando Shift, você seleciona mais de um objeto)
+
+![select](fig/select.gif)
+
+
 
