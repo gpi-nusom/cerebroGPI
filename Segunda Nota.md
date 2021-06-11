@@ -1,1 +1,0 @@
-Teste de segunda nota linkando com [[Primeira nota de teste obsidian]]
