@@ -6,7 +6,7 @@
 - Primeira linha deve ter no máximo 72 caracteres
 - Considere descrever com detalhes no corpo do commit
 - Considere usar um emoji no início da mensagem de commit
-	- Caso não consiga visualizar os emojis consulte [[Markdown emoji no Obsidian]]
+	- Caso não consiga visualizar os emojis consulte [[Emoji em markdown no Obsidian]]
 
 Emoji | Code | Commit Type
 ------------ | ------------- | -------------
