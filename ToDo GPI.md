@@ -7,7 +7,7 @@
 - Adicionar os projetos do Grupo no repositório
 - Configuração da pasta mídias em cada obsidian
 	- [[Como configurar pasta de Mídias]]
-- Migração de ATAS para obsidian
+- ~~Migração de ATAS para obsidian~~
 
 ---
 # Realizado
@@ -15,3 +15,4 @@
 - Re-ativação dos encontros do GPI - [[Vitor Kisil]]
 - Apresentação Impressora 3D - Guilherme Fiorentini
 - Criação do Repositório Público Obsidian no Github - [[Esteban Viveros]]
+- Migração de ATAS para obsidian - [[Esteban Viveros]]
