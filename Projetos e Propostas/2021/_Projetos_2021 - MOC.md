@@ -1,4 +1,6 @@
 # Projetos e Propostas
+> [[Modelo de Documentação de Projeto]]
+
 ---
 
 ## Projetos em Realização
