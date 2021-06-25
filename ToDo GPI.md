@@ -4,7 +4,7 @@
 ---
 # ToDo próxima Reunião
 - Cada um adicionar sua miniBio
-- Adicionar os projetos do Grupo no repositório
+- Adicionar os projetos no repositório do Grupo
 - Configuração da pasta mídias em cada obsidian
 	- [[Como configurar pasta de Mídias]]
 - ~~Migração de ATAS para obsidian~~
