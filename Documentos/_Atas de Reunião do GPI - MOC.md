@@ -1,5 +1,5 @@
 # Atas de Reunião
-- [[Ata Reunião GPI - 25-06-2021]]
+- [[Ata Reunião GPI - 2021-06-25]]
 - [[Ata Reunião GPI - 2021-06-11]]
 - [[Ata Reunião GPI - 2021-06-04]]
 - [[Ata Reunião GPI - 2021-05-28]]
