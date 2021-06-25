@@ -14,9 +14,9 @@
 		- (Vitor) Núcleos no GPI
 			- com uma liderança
 			- Grupos
-				- Poluição Sonora
-				- Memórias
-				- Instalações Sonoras Lúdicas
+				- Poluição Sonora - Vitor e Esteban
+				- Memórias da Cidade - Luccas
+				- Instalações Sonoras Lúdicas - Fábio?
 
 ### Presentes:
 - [[Luccas Dentzien]]
