@@ -5,3 +5,5 @@ Sons e objetos acústicos sendo recobertos por plástico e se tornando abafados 
 2 trajetos possíveis - Sair do real e chegar onde estamos ou Sair de onde estamos (pode ser mais interessante pois pode partir de um pouco de lixo e vai se limpando.)
 
 Versão instalação e versão sonora (com controle por parte do usuário do onde está).
+
+Parede de plástico. Som vindo direto dessa parede.
